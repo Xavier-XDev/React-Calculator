@@ -2,6 +2,8 @@
 
 A simple React Web Calculator.
 
+Check it out! go to: https://xavier-xdev.github.io/React-Calculator/
+
 This project was bootstrapped with Create React App. In the project directory,run:
 
 'npm install'
