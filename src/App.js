@@ -141,15 +141,17 @@ const App = () => {
 
   return (
     <div>
-      <h1
-        style={{
-          fontSize: "42px",
-          fontFamily: "Papyrus",
-          color: "rgb(250, 0, 0)",
-        }}
-      >
-        MoneyMatters Calculator
-      </h1>
+      <u style={{ color: "red" }}>
+        <h1
+          style={{
+            fontSize: "46px",
+            fontFamily: "Papyrus",
+            color: "rgb(250, 30, 0)",
+          }}
+        >
+          MoneyWise Calculator
+        </h1>
+      </u>
       <Wrapper>
         <Screen value={calc.num ? calc.num : calc.res} />
         <ButtonBox>
