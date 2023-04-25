@@ -1,3 +1,4 @@
+React-Calculator
 A simple React Web Calculator, includes the react-textfit library.
 
 This project was bootstrapped with Create React App. In the project directory,run:
