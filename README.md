@@ -8,7 +8,7 @@ This project was bootstrapped with Create React App. In the project directory,ru
 
 then:
 
-'npm install react-textfit' (for the text-fit library included in this project.
+'npm install react-textfit' (for the text-fit library included in this project).
 
 then:
 
